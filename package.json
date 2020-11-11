@@ -1,0 +1,14 @@
+{
+  "name": "cruise-shipz",
+  "version": "1.0.0",
+  "description": "making a cruise-shipz game with a GUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
